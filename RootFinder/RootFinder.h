@@ -14,7 +14,8 @@
 class ROOTFINDER_API CRootFinder {
 public:
 	CRootFinder(void);
-	// TODO: add your methods here.
+	
+	double SquareRoot(double input);
 };
 
 extern ROOTFINDER_API int nRootFinder;
